@@ -1,0 +1,1922 @@
+[
+	{
+		"animal_name": "SHOEBILL",
+		"latin_name": "Balaeniceps rex",
+		"enclosure": "1-LBA 1",
+		"cost": 9,
+		"type": "Bird",
+		"continent": "Africa",
+		"requirements": "Science x2",
+		"ability": "",
+		"bonuses": {
+			"appeal": "3",
+			"conservation": "1",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "LESSER FLAMINGO",
+		"latin_name": "Phoeniconaias minor",
+		"enclosure": "2W",
+		"cost": 15,
+		"type": "Bird",
+		"continent": "Africa",
+		"requirements": "",
+		"ability": "Posturing 1",
+		"bonuses": {
+			"appeal": "6",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "MARABOU",
+		"latin_name": "Leptoptilos crumenifer",
+		"enclosure": "3-LBA 1",
+		"cost": 10,
+		"type": "Bird",
+		"continent": "Africa",
+		"requirements": "",
+		"ability": "Scavenging 2",
+		"bonuses": {
+			"appeal": "4",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "AFRICAN OSTRICH",
+		"latin_name": "Struthio camelus",
+		"enclosure": "5-LBA 4",
+		"cost": 20,
+		"type": "Bird",
+		"continent": "Africa",
+		"requirements": "",
+		"ability": "Sprint 2",
+		"bonuses": {
+			"appeal": "8",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "SECRETARY BIRD",
+		"latin_name": "Sagittarius serpentarius",
+		"enclosure": "4-LBA 1",
+		"cost": 14,
+		"type": "Bird",
+		"continent": "Africa",
+		"requirements": "",
+		"ability": "",
+		"bonuses": {
+			"appeal": "4",
+			"conservation": "1",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "BALD EAGLE",
+		"latin_name": "Haliaeetus leucocephalus",
+		"enclosure": "4W-LBA 1",
+		"cost": 23,
+		"type": "Bird",
+		"continent": "Americas",
+		"requirements": "Animals II",
+		"ability": "Determination",
+		"bonuses": {
+			"appeal": "8",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "ANDEAN CONDOR",
+		"latin_name": "Vultur gryphus",
+		"enclosure": "5R-LBA 1",
+		"cost": 17,
+		"type": "Bird",
+		"continent": "Americas",
+		"requirements": "Bird",
+		"ability": "Scavenging 4",
+		"bonuses": {
+			"appeal": "7",
+			"conservation": "0",
+			"reputation": "1"
+		}
+	},
+	{
+		"animal_name": "KING VULTURE",
+		"latin_name": "Sarcoramphus papa",
+		"enclosure": "3-LBA 1",
+		"cost": 12,
+		"type": "Bird",
+		"continent": "Americas",
+		"requirements": "Bird x3",
+		"ability": "Scavenging 5",
+		"bonuses": {
+			"appeal": "9",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "SCARLET MACAW",
+		"latin_name": "Ara macao",
+		"enclosure": "1",
+		"cost": 16,
+		"type": "Bird",
+		"continent": "Americas",
+		"requirements": "Partner zoo",
+		"ability": "Posturing 3",
+		"bonuses": {
+			"appeal": "4",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "GREATER RHEA",
+		"latin_name": "Rhea americana",
+		"enclosure": "2",
+		"cost": 12,
+		"type": "Bird",
+		"continent": "Americas",
+		"requirements": "",
+		"ability": "Sprint 1",
+		"bonuses": {
+			"appeal": "5",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "INDIAN PEAFOWL",
+		"latin_name": "Pavo cristatus",
+		"enclosure": "3",
+		"cost": 18,
+		"type": "18",
+		"continent": "Asia",
+		"requirements": "Asia",
+		"ability": "Posturing 2",
+		"bonuses": {
+			"appeal": "7",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "SNOWY OWL",
+		"latin_name": "Bubo scandiacus",
+		"enclosure": "1",
+		"cost": 11,
+		"type": "Bird",
+		"continent": "Asia",
+		"requirements": "Bird x2",
+		"ability": "Perception 4",
+		"bonuses": {
+			"appeal": "4",
+			"conservation": "0",
+			"reputation": "1"
+		}
+	},
+	{
+		"animal_name": "LONG-BILLED VULTURE",
+		"latin_name": "Gyps indicus",
+		"enclosure": "4R-LBA 1",
+		"cost": 20,
+		"type": "Bird",
+		"continent": "Asia",
+		"requirements": "Science",
+		"ability": "Scavenging 3",
+		"bonuses": {
+			"appeal": "5",
+			"conservation": "1",
+			"reputation": "1"
+		}
+	},
+	{
+		"animal_name": "GREAT HORNBILL",
+		"latin_name": "Buceros bicornis",
+		"enclosure": "2",
+		"cost": 13,
+		"type": "Bird",
+		"continent": "Asia",
+		"requirements": "",
+		"ability": "Boost: Build",
+		"bonuses": {
+			"appeal": "6",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "CINEREOUS VULTURE",
+		"latin_name": "Aegypius monachus",
+		"enclosure": "5-LBA 1",
+		"cost": 16,
+		"type": "Bird",
+		"continent": "Asia",
+		"requirements": "",
+		"ability": "Scavenging 3",
+		"bonuses": {
+			"appeal": "6",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "LAUGHING KOOKABURRA",
+		"latin_name": "Dacelo novaeguineae",
+		"enclosure": "2",
+		"cost": 9,
+		"type": "Bird",
+		"continent": "Australia",
+		"requirements": "Australia",
+		"ability": "Iconic Animal: Australia",
+		"bonuses": {
+			"appeal": "0",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "EMU",
+		"latin_name": "Dromaius novaehollandiae",
+		"enclosure": "5",
+		"cost": 22,
+		"type": "Bird",
+		"continent": "Australia",
+		"requirements": "Australia x2",
+		"ability": "Peacocking",
+		"bonuses": {
+			"appeal": "7",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "NORHTERN CASSOWARY",
+		"latin_name": "Casuarius unappendiculatus",
+		"enclosure": "3",
+		"cost": 12,
+		"type": "Bird",
+		"continent": "Australia",
+		"requirements": "Partner zoo",
+		"ability": "Multiplier: Build",
+		"bonuses": {
+			"appeal": "6",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "AUSTRALIAN PELICAN",
+		"latin_name": "Pelecaus conspicillatus",
+		"enclosure": "4WW",
+		"cost": 13,
+		"type": "Bird",
+		"continent": "Australia",
+		"requirements": "",
+		"ability": "Action: Build",
+		"bonuses": {
+			"appeal": "5",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "LESSER BIRD-OF-PARADISE",
+		"latin_name": "Paradisaea minor",
+		"enclosure": "1",
+		"cost": 15,
+		"type": "Bird",
+		"continent": "Australia",
+		"requirements": "",
+		"ability": "Posturing 1",
+		"bonuses": {
+			"appeal": "5",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "GOLDEN EAGLE",
+		"latin_name": "Aquila chrysaetos",
+		"enclosure": "5R-LBA 1",
+		"cost": 20,
+		"type": "Bird",
+		"continent": "Europe",
+		"requirements": "Animals II",
+		"ability": "Determination",
+		"bonuses": {
+			"appeal": "7",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "WHITE STORK",
+		"latin_name": "Ciconia ciconia",
+		"enclosure": "4-LBA 1",
+		"cost": 9,
+		"type": "Bird",
+		"continent": "Europe",
+		"requirements": "Europe",
+		"ability": "Multiplier: Build",
+		"bonuses": {
+			"appeal": "4",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "EURASIAN EAGLE-OWL",
+		"latin_name": "Bubo bubo",
+		"enclosure": "2",
+		"cost": 10,
+		"type": "Bird",
+		"continent": "Europe",
+		"requirements": "Partner zoo",
+		"ability": "Perception 4",
+		"bonuses": {
+			"appeal": "4",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "BARN OWL",
+		"latin_name": "Tyto alba",
+		"enclosure": "1",
+		"cost": 12,
+		"type": "Bird",
+		"continent": "Europe",
+		"requirements": "",
+		"ability": "Perception 4",
+		"bonuses": {
+			"appeal": "3",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "GREATER FLAMINGO",
+		"latin_name": "Phoenicopterus roseus",
+		"enclosure": "3W",
+		"cost": 16,
+		"type": "Bird",
+		"continent": "Europe",
+		"requirements": "",
+		"ability": "Posturing 1",
+		"bonuses": {
+			"appeal": "7",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "GREVY'S ZEBRA",
+		"latin_name": "Equus grevyi",
+		"enclosure": "2",
+		"cost": 12,
+		"type": "Herbivore",
+		"continent": "Africa",
+		"requirements": "Africa x3",
+		"ability": "Boost: Sponsors\nFlock Animal 2",
+		"bonuses": {
+			"appeal": "6",
+			"conservation": "0",
+			"reputation": "1"
+		}
+	},
+	{
+		"animal_name": "PYGMY HIPPOPOTAMUS",
+		"latin_name": "Choeropsis liberiensis",
+		"enclosure": "2W",
+		"cost": 15,
+		"type": "Herbivore",
+		"continent": "Africa",
+		"requirements": "Partner zoo",
+		"ability": "Action: Sponsors",
+		"bonuses": {
+			"appeal": "6",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "WHITE RHINOCEROS",
+		"latin_name": "Ceratotherium simum",
+		"enclosure": "4R",
+		"cost": 24,
+		"type": "Herbivore",
+		"continent": "Africa",
+		"requirements": "Science",
+		"ability": "Assertion",
+		"bonuses": {
+			"appeal": "9",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "GIRAFFE",
+		"latin_name": "Giraffa",
+		"enclosure": "3",
+		"cost": 16,
+		"type": "Herbivore",
+		"continent": "Africa",
+		"requirements": "",
+		"ability": "Boost: Sponsors",
+		"bonuses": {
+			"appeal": "7",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "AFRICAN BUSH ELEPHANT",
+		"latin_name": "Loxodonta africana",
+		"enclosure": "5",
+		"cost": 36,
+		"type": "Herbivore",
+		"continent": "Africa x2",
+		"requirements": "Animals II",
+		"ability": "Resistance",
+		"bonuses": {
+			"appeal": "10",
+			"conservation": "0",
+			"reputation": "1"
+		}
+	},
+	{
+		"animal_name": "MUSKOX",
+		"latin_name": "Ovibos moschatus",
+		"enclosure": "4",
+		"cost": 13,
+		"type": "Herbivore",
+		"continent": "Americas",
+		"requirements": "Americas",
+		"ability": "Sponsor Magnet",
+		"bonuses": {
+			"appeal": "5",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "MOUNTAIN TAPIR",
+		"latin_name": "Tapirus pinchaque",
+		"enclosure": "2R",
+		"cost": 15,
+		"type": "Herbivore",
+		"continent": "Americas",
+		"requirements": "",
+		"ability": "Digging 2",
+		"bonuses": {
+			"appeal": "4",
+			"conservation": "1",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "LAMA",
+		"latin_name": "Lama glama",
+		"enclosure": "2",
+		"cost": 10,
+		"type": "Herbivore",
+		"continent": "Americas",
+		"requirements": "",
+		"ability": "Flock Animal 2",
+		"bonuses": {
+			"appeal": "4",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "REINDEER",
+		"latin_name": "Rangifer tarandus",
+		"enclosure": "3",
+		"cost": 12,
+		"type": "Herbivore",
+		"continent": "Americas",
+		"requirements": "",
+		"ability": "Flock Animal 3",
+		"bonuses": {
+			"appeal": "5",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "AMERICAN BISON",
+		"latin_name": "Bos bison",
+		"enclosure": "5",
+		"cost": 18,
+		"type": "Herbivore",
+		"continent": "Americas x2",
+		"requirements": "Americas x3",
+		"ability": "Iconic Animal: Americas",
+		"bonuses": {
+			"appeal": "4",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "INDIAN RHINOCEROS",
+		"latin_name": "Rhinoceros unicornis",
+		"enclosure": "4",
+		"cost": 25,
+		"type": "Herbivore",
+		"continent": "Asia",
+		"requirements": "Animals II",
+		"ability": "Assertion",
+		"bonuses": {
+			"appeal": "9",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "MALAYAN TAPIR",
+		"latin_name": "Tapirus indicus",
+		"enclosure": "2",
+		"cost": 17,
+		"type": "Herbivore",
+		"continent": "Asia",
+		"requirements": "",
+		"ability": "Digging 3",
+		"bonuses": {
+			"appeal": "5",
+			"conservation": "0",
+			"reputation": "1"
+		}
+	},
+	{
+		"animal_name": "ASIAN ELEPHANT",
+		"latin_name": "Elephas maximus",
+		"enclosure": "5W",
+		"cost": 33,
+		"type": "Herbivore",
+		"continent": "Asia x2",
+		"requirements": "Animals II",
+		"ability": "Resistance",
+		"bonuses": {
+			"appeal": "8",
+			"conservation": "1",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "COMMON WOMBAT",
+		"latin_name": "Vombatus ursinus",
+		"enclosure": "2",
+		"cost": 9,
+		"type": "Herbivore",
+		"continent": "Australia",
+		"requirements": "",
+		"ability": "Pouch 1",
+		"bonuses": {
+			"appeal": "4",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "RED KANGAROO",
+		"latin_name": "Macropus rufus",
+		"enclosure": "4",
+		"cost": 23,
+		"type": "Herbivore",
+		"continent": "Australia",
+		"requirements": "",
+		"ability": "Pouch 2\nFlock Animal 4",
+		"bonuses": {
+			"appeal": "7",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "PLATYPUS",
+		"latin_name": "Ornithorhynchus anatinus",
+		"enclosure": "2W",
+		"cost": 10,
+		"type": "Herbivore",
+		"continent": "Australia",
+		"requirements": "",
+		"ability": "Venom 1",
+		"bonuses": {
+			"appeal": "4",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "DUGONG",
+		"latin_name": "Dugong dugon",
+		"enclosure": "5WW",
+		"cost": 25,
+		"type": "Herbivore",
+		"continent": "Australia x2",
+		"requirements": "Animals II",
+		"ability": "Digging 4",
+		"bonuses": {
+			"appeal": "9",
+			"conservation": "1",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "MOOSE",
+		"latin_name": "Alces alces",
+		"enclosure": "4",
+		"cost": 19,
+		"type": "Herbivore",
+		"continent": "Europe",
+		"requirements": "Herbivore x2",
+		"ability": "Multiplier: Sponsors\nFlock Animal 4",
+		"bonuses": {
+			"appeal": "7",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "CRESTED PORCUPINE",
+		"latin_name": "Hystric cristata",
+		"enclosure": "1",
+		"cost": 8,
+		"type": "Herbivore",
+		"continent": "Europe",
+		"requirements": "",
+		"ability": "Digging 2",
+		"bonuses": {
+			"appeal": "3",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "RED DEER",
+		"latin_name": "Cervus elaphus",
+		"enclosure": "3",
+		"cost": 12,
+		"type": "Herbivore",
+		"continent": "Europe",
+		"requirements": "",
+		"ability": "Flock Animal 3",
+		"bonuses": {
+			"appeal": "5",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "ALPINE IBEX",
+		"latin_name": "Capra ibex",
+		"enclosure": "2RR",
+		"cost": 10,
+		"type": "Herbivore",
+		"continent": "Europe",
+		"requirements": "",
+		"ability": "Jumping 2",
+		"bonuses": {
+			"appeal": "5",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "EUROPEAN BISON",
+		"latin_name": "Bos bonasus",
+		"enclosure": "5",
+		"cost": 19,
+		"type": "Herbivore",
+		"continent": "Europe x2",
+		"requirements": "Partner zoo",
+		"ability": "Sponsor Magnet",
+		"bonuses": {
+			"appeal": "6",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "GIANT PANDA",
+		"latin_name": "Ailuropoda melanoleuca",
+		"enclosure": "3",
+		"cost": 27,
+		"type": "Herbivore/Bear",
+		"continent": "Asia",
+		"requirements": "Herbivore\nBear\nPartner zoo",
+		"ability": "",
+		"bonuses": {
+			"appeal": "10",
+			"conservation": "2",
+			"reputation": "1"
+		}
+	},
+	{
+		"animal_name": "RED PANDA",
+		"latin_name": "Ailurus fulgens",
+		"enclosure": "2",
+		"cost": 16,
+		"type": "Herbivore/Bear",
+		"continent": "Asia",
+		"requirements": "Science x2",
+		"ability": "Multiplier: Sponsors",
+		"bonuses": {
+			"appeal": "6",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "KOALA",
+		"latin_name": "Phascolarctos cinereus",
+		"enclosure": "3R",
+		"cost": 21,
+		"type": "Herbivore/Bear",
+		"continent": "Australia",
+		"requirements": "Australia",
+		"ability": "Pouch 2",
+		"bonuses": {
+			"appeal": "8",
+			"conservation": "0",
+			"reputation": "1"
+		}
+	},
+	{
+		"animal_name": "DOMESTIC GOAT",
+		"latin_name": "Capra aegagrus hircus",
+		"enclosure": "PZ 1",
+		"cost": 7,
+		"type": "Pet",
+		"continent": "",
+		"requirements": "",
+		"ability": "Petting Zoo Animal",
+		"bonuses": {
+			"appeal": "0",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "SHEEP",
+		"latin_name": "Ovis gmelini aries",
+		"enclosure": "PZ 1",
+		"cost": 7,
+		"type": "Pet",
+		"continent": "",
+		"requirements": "",
+		"ability": "Petting Zoo Animal",
+		"bonuses": {
+			"appeal": "0",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "HORSE",
+		"latin_name": "Equus caballus",
+		"enclosure": "PZ 1",
+		"cost": 7,
+		"type": "Pet",
+		"continent": "",
+		"requirements": "",
+		"ability": "Petting Zoo Animal",
+		"bonuses": {
+			"appeal": "0",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "DOMESTIC RABBIT",
+		"latin_name": "Oryctolagus cuniculus",
+		"enclosure": "PZ 1",
+		"cost": 7,
+		"type": "Pet",
+		"continent": "",
+		"requirements": "",
+		"ability": "Petting Zoo Animal",
+		"bonuses": {
+			"appeal": "0",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "MANGALICA",
+		"latin_name": "Sus scrofa form. domestica",
+		"enclosure": "PZ 1",
+		"cost": 7,
+		"type": "Pet",
+		"continent": "",
+		"requirements": "",
+		"ability": "Petting Zoo Animal",
+		"bonuses": {
+			"appeal": "0",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "ALPACA",
+		"latin_name": "Vicugna pacos",
+		"enclosure": "PZ 1",
+		"cost": 7,
+		"type": "Pet",
+		"continent": "",
+		"requirements": "",
+		"ability": "Petting Zoo Animal",
+		"bonuses": {
+			"appeal": "0",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "COCONUT LORIKEET",
+		"latin_name": "Trichoglossus haematodus",
+		"enclosure": "PZ 1",
+		"cost": 7,
+		"type": "Pet",
+		"continent": "",
+		"requirements": "",
+		"ability": "Petting Zoo Animal",
+		"bonuses": {
+			"appeal": "0",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "GUINEA PIG",
+		"latin_name": "Cavia porcellus form. domestica",
+		"enclosure": "PZ 1",
+		"cost": 7,
+		"type": "Pet",
+		"continent": "",
+		"requirements": "",
+		"ability": "Petting Zoo Animal\nDigging 1",
+		"bonuses": {
+			"appeal": "0",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "DONKEY",
+		"latin_name": "Equus asinus asinus",
+		"enclosure": "PZ 1",
+		"cost": 7,
+		"type": "Pet",
+		"continent": "",
+		"requirements": "",
+		"ability": "Petting Zoo Animal\nInventive",
+		"bonuses": {
+			"appeal": "0",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "BENNETT'S WALLABY",
+		"latin_name": "Macropus rufogriseus",
+		"enclosure": "PZ 1",
+		"cost": 7,
+		"type": "Pet",
+		"continent": "",
+		"requirements": "",
+		"ability": "Petting Zoo Animal\nPouch 1",
+		"bonuses": {
+			"appeal": "0",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "LEOPARD",
+		"latin_name": "Panthera pardus",
+		"enclosure": "3R",
+		"cost": 20,
+		"type": "Predator",
+		"continent": "Africa",
+		"requirements": "Partner zoo",
+		"ability": "Hunter 4",
+		"bonuses": {
+			"appeal": "7",
+			"conservation": "1",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "LION",
+		"latin_name": "Panthera leo",
+		"enclosure": "4",
+		"cost": 16,
+		"type": "Predator",
+		"continent": "Africa",
+		"requirements": "Predator x3",
+		"ability": "Pack",
+		"bonuses": {
+			"appeal": "9",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "FENNEC FOX",
+		"latin_name": "Vulpes zerda",
+		"enclosure": "1",
+		"cost": 8,
+		"type": "Predator",
+		"continent": "Africa",
+		"requirements": "",
+		"ability": "Clever",
+		"bonuses": {
+			"appeal": "3",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "CARACAL",
+		"latin_name": "Caracal caracal",
+		"enclosure": "2",
+		"cost": 9,
+		"type": "Predator",
+		"continent": "Africa",
+		"requirements": "",
+		"ability": "Hunter 2",
+		"bonuses": {
+			"appeal": "4",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "JAGUAR",
+		"latin_name": "Panthera onca",
+		"enclosure": "4",
+		"cost": 16,
+		"type": "Predator",
+		"continent": "Americas",
+		"requirements": "Americas",
+		"ability": "Hunter 4",
+		"bonuses": {
+			"appeal": "8",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "GRIZZLY BEAR",
+		"latin_name": "Ursus arctos horribilis",
+		"enclosure": "5",
+		"cost": 22,
+		"type": "Predator",
+		"continent": "Americas",
+		"requirements": "Predator x2\nAnimals II",
+		"ability": "Inventive\nFull-throated",
+		"bonuses": {
+			"appeal": "9",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "COUGAR",
+		"latin_name": "Puma concolor",
+		"enclosure": "3R",
+		"cost": 10,
+		"type": "Predator",
+		"continent": "Americas",
+		"requirements": "",
+		"ability": "Jumping 3",
+		"bonuses": {
+			"appeal": "5",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "SIBERIAN TIGER",
+		"latin_name": "Panthera tigris altaica",
+		"enclosure": "5",
+		"cost": 30,
+		"type": "Predator",
+		"continent": "Asia",
+		"requirements": "Asia x3",
+		"ability": "",
+		"bonuses": {
+			"appeal": "10",
+			"conservation": "2",
+			"reputation": "1"
+		}
+	},
+	{
+		"animal_name": "SUMATRAN TIGER",
+		"latin_name": "Panthera tigris sumatrae",
+		"enclosure": "4WW",
+		"cost": 26,
+		"type": "Predator",
+		"continent": "Asia",
+		"requirements": "Science x2",
+		"ability": "",
+		"bonuses": {
+			"appeal": "8",
+			"conservation": "2",
+			"reputation": "1"
+		}
+	},
+	{
+		"animal_name": "YELLOW-THROATED MARTEN",
+		"latin_name": "Martes flavigula",
+		"enclosure": "1",
+		"cost": 7,
+		"type": "Predator",
+		"continent": "Asia",
+		"requirements": "",
+		"ability": "Hunter 1",
+		"bonuses": {
+			"appeal": "3",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "NEW ZEALAND FUR SEAL",
+		"latin_name": "Arctocephalus forsteri",
+		"enclosure": "5WR",
+		"cost": 17,
+		"type": "Predator",
+		"continent": "Australia",
+		"requirements": "Animals II",
+		"ability": "Full-throated",
+		"bonuses": {
+			"appeal": "8",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "AUSTRALIAN SEA LION",
+		"latin_name": "Neophoca cinerea",
+		"enclosure": "4W",
+		"cost": 18,
+		"type": "Predator",
+		"continent": "Australia",
+		"requirements": "Partner zoo",
+		"ability": "Sunbathing 3",
+		"bonuses": {
+			"appeal": "7",
+			"conservation": "1",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "TASMANIAN DEVIL",
+		"latin_name": "Sarcophilus harrisii",
+		"enclosure": "1",
+		"cost": 11,
+		"type": "Predator",
+		"continent": "Australia",
+		"requirements": "Science",
+		"ability": "Pouch 1",
+		"bonuses": {
+			"appeal": "4",
+			"conservation": "0",
+			"reputation": "1"
+		}
+	},
+	{
+		"animal_name": "AUSTRALIAN DINGO",
+		"latin_name": "Canis lupus dingo",
+		"enclosure": "2",
+		"cost": 13,
+		"type": "Predator",
+		"continent": "Australia",
+		"requirements": "",
+		"ability": "Pack",
+		"bonuses": {
+			"appeal": "3",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "NEW ZEALAND SEA LION",
+		"latin_name": "Phocarctos hookeri",
+		"enclosure": "3W",
+		"cost": 17,
+		"type": "Predator",
+		"continent": "Australia",
+		"requirements": "",
+		"ability": "Pack",
+		"bonuses": {
+			"appeal": "6",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "STOAT",
+		"latin_name": "Mustela erminea",
+		"enclosure": "1",
+		"cost": 4,
+		"type": "Predator",
+		"continent": "Europe",
+		"requirements": "Europe",
+		"ability": "Hunter 1",
+		"bonuses": {
+			"appeal": "3",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "EURASIAN LYNX",
+		"latin_name": "Lynx lynx",
+		"enclosure": "3",
+		"cost": 11,
+		"type": "Predator",
+		"continent": "Europe",
+		"requirements": "Europe x2",
+		"ability": "Iconic Animal: Europe",
+		"bonuses": {
+			"appeal": "2",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "EUROPEAN BADGER",
+		"latin_name": "Meles meles",
+		"enclosure": "2",
+		"cost": 5,
+		"type": "Predator",
+		"continent": "Europe",
+		"requirements": "",
+		"ability": "Boost: Aminals",
+		"bonuses": {
+			"appeal": "3",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "WOLF",
+		"latin_name": "Canis lupus",
+		"enclosure": "4",
+		"cost": 12,
+		"type": "Predator",
+		"continent": "Europe",
+		"requirements": "",
+		"ability": "Pack",
+		"bonuses": {
+			"appeal": "4",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "CHEETAH",
+		"latin_name": "Acinonyx jubatus",
+		"enclosure": "5",
+		"cost": 17,
+		"type": "Predator x2",
+		"continent": "Africa",
+		"requirements": "",
+		"ability": "Sprint 3",
+		"bonuses": {
+			"appeal": "6",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "RACCOON",
+		"latin_name": "Procyon lotor",
+		"enclosure": "1",
+		"cost": 11,
+		"type": "Predator/Bear",
+		"continent": "Americas",
+		"requirements": "",
+		"ability": "Boost:Association",
+		"bonuses": {
+			"appeal": "4",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "SOUTH AMERICAN COATI",
+		"latin_name": "Nasua nasua",
+		"enclosure": "2R",
+		"cost": 11,
+		"type": "Predator/Bear",
+		"continent": "Americas",
+		"requirements": "",
+		"ability": "Inventive 1",
+		"bonuses": {
+			"appeal": "4",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "SUN BEAR",
+		"latin_name": "Helarctos malayanus",
+		"enclosure": "2",
+		"cost": 16,
+		"type": "Predator/Bear",
+		"continent": "Asia",
+		"requirements": "Partner zoo",
+		"ability": "Action: Association",
+		"bonuses": {
+			"appeal": "5",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "SLOTH BEAR",
+		"latin_name": "Melursus ursinus",
+		"enclosure": "3",
+		"cost": 14,
+		"type": "Predator/Bear",
+		"continent": "Asia",
+		"requirements": "",
+		"ability": "Boost:Association",
+		"bonuses": {
+			"appeal": "6",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "EURASIAN BROWN BEAR",
+		"latin_name": "Ursus arctos arctos",
+		"enclosure": "5W",
+		"cost": 20,
+		"type": "Predator/Bear",
+		"continent": "Europe",
+		"requirements": "Bear\nAnimals II",
+		"ability": "Multiplier: Association\nFull-throated",
+		"bonuses": {
+			"appeal": "8",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "COLLARED MANGABEY",
+		"latin_name": "Cercocebus torquatus",
+		"enclosure": "4",
+		"cost": 20,
+		"type": "Primate",
+		"continent": "Africa",
+		"requirements": "Africa",
+		"ability": "Action: Cards",
+		"bonuses": {
+			"appeal": "8",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "SENEGAL BUSHBABY",
+		"latin_name": "Galago senegalensis",
+		"enclosure": "1",
+		"cost": 10,
+		"type": "Primate",
+		"continent": "Africa",
+		"requirements": "Africa x2",
+		"ability": "Iconic Animal: Africa",
+		"bonuses": {
+			"appeal": "1",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "JAPANCES MACAQUE",
+		"latin_name": "Macaca fuscata",
+		"enclosure": "3W",
+		"cost": 18,
+		"type": "Primate",
+		"continent": "Africa",
+		"requirements": "Asia",
+		"ability": "Pilfering 2",
+		"bonuses": {
+			"appeal": "7",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "BARBARY MACAQUE",
+		"latin_name": "Macaca sylvanus",
+		"enclosure": "2",
+		"cost": 13,
+		"type": "Primate",
+		"continent": "Africa",
+		"requirements": "Partner zoo",
+		"ability": "Pilfering 1",
+		"bonuses": {
+			"appeal": "6",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "MANTLED GUEREZA",
+		"latin_name": "Colobus guereza",
+		"enclosure": "3",
+		"cost": 13,
+		"type": "Primate",
+		"continent": "Africa",
+		"requirements": "",
+		"ability": "Clever",
+		"bonuses": {
+			"appeal": "6",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "RING-TAILED LEMUR",
+		"latin_name": "Lemur catta",
+		"enclosure": "3R",
+		"cost": 12,
+		"type": "Primate",
+		"continent": "Africa",
+		"requirements": "",
+		"ability": "Sunbathing 3",
+		"bonuses": {
+			"appeal": "6",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "PANAMANIAN WHITE-FACED CAPUCHIN",
+		"latin_name": "Cebus imitator",
+		"enclosure": "2",
+		"cost": 11,
+		"type": "Primate",
+		"continent": "Americas",
+		"requirements": "Partner zoo",
+		"ability": "Pilfering 1",
+		"bonuses": {
+			"appeal": "5",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "BROWN SPIDER MONKEY",
+		"latin_name": "Ateles hybridus",
+		"enclosure": "4",
+		"cost": 17,
+		"type": "Primate",
+		"continent": "Americas",
+		"requirements": "Primate",
+		"ability": "Inventive",
+		"bonuses": {
+			"appeal": "6",
+			"conservation": "1",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "COTTON-TOP TAMARIN",
+		"latin_name": "Saguinus oedipus",
+		"enclosure": "1",
+		"cost": 15,
+		"type": "Primate",
+		"continent": "Americas",
+		"requirements": "Science x2",
+		"ability": "",
+		"bonuses": {
+			"appeal": "4",
+			"conservation": "1",
+			"reputation": "1"
+		}
+	},
+	{
+		"animal_name": "BOLIVIAN RED HOWLER",
+		"latin_name": "Alouatta sara",
+		"enclosure": "3",
+		"cost": 12,
+		"type": "Primate",
+		"continent": "Americas",
+		"requirements": "",
+		"ability": "Boost: Cards",
+		"bonuses": {
+			"appeal": "6",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "GOLDEN LION TAMARIN",
+		"latin_name": "Leontopithecus rosalia",
+		"enclosure": "1",
+		"cost": 10,
+		"type": "Primate",
+		"continent": "Americas",
+		"requirements": "",
+		"ability": "Clever",
+		"bonuses": {
+			"appeal": "4",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "ECUADORIAN SQUIRELL MONKEY",
+		"latin_name": "Saimiri macrodon",
+		"enclosure": "2",
+		"cost": 12,
+		"type": "Primate",
+		"continent": "Americas",
+		"requirements": "",
+		"ability": "Clever",
+		"bonuses": {
+			"appeal": "5",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "HORSFIELD'S TARSIER",
+		"latin_name": "Cephalopachus bancanus",
+		"enclosure": "1",
+		"cost": 14,
+		"type": "Primate",
+		"continent": "Asia",
+		"requirements": "Partner zoo",
+		"ability": "Jumping 4",
+		"bonuses": {
+			"appeal": "3",
+			"conservation": "0",
+			"reputation": "2"
+		}
+	},
+	{
+		"animal_name": "PROBOSCIS MONKEY",
+		"latin_name": "Nasalis larvatus",
+		"enclosure": "5R",
+		"cost": 32,
+		"type": "Primate",
+		"continent": "Asia",
+		"requirements": "Primate x2\nAnimals II",
+		"ability": "Dominance",
+		"bonuses": {
+			"appeal": "10",
+			"conservation": "2",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "RED-SHANKED DOUC",
+		"latin_name": "Pygathrix nemaeus",
+		"enclosure": "4",
+		"cost": 17,
+		"type": "Primate",
+		"continent": "Asia",
+		"requirements": "Science",
+		"ability": "Inventive",
+		"bonuses": {
+			"appeal": "7",
+			"conservation": "0",
+			"reputation": "1"
+		}
+	},
+	{
+		"animal_name": "DUSKY-LEAF MONKEY",
+		"latin_name": "Trachypithecus obscurus",
+		"enclosure": "2",
+		"cost": 12,
+		"type": "Primate",
+		"continent": "Asia",
+		"requirements": "",
+		"ability": "Clever",
+		"bonuses": {
+			"appeal": "5",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "NORTHERN PLAINS GRAY LANGUR",
+		"latin_name": "Semnopithecus entellus",
+		"enclosure": "3R",
+		"cost": 13,
+		"type": "Primate",
+		"continent": "Asia",
+		"requirements": "",
+		"ability": "Jumping 3",
+		"bonuses": {
+			"appeal": "6",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "MANDRILL",
+		"latin_name": "Mandrillus sphinx",
+		"enclosure": "5",
+		"cost": 28,
+		"type": "Primate x2",
+		"continent": "Africa",
+		"requirements": "Primate x3",
+		"ability": "Multiplier: Cards",
+		"bonuses": {
+			"appeal": "9",
+			"conservation": "2",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "WESTERN GREEN MAMBA",
+		"latin_name": "Dendroaspis viridis",
+		"enclosure": "2-RH 1",
+		"cost": 13,
+		"type": "Reptile",
+		"continent": "Africa",
+		"requirements": "Africa\nReptile",
+		"ability": "Venom 2",
+		"bonuses": {
+			"appeal": "6",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "NILE CROCODILE",
+		"latin_name": "Crocodylus niloticus",
+		"enclosure": "5W-RH 3",
+		"cost": 13,
+		"type": "Reptile",
+		"continent": "Africa",
+		"requirements": "Reptile x3",
+		"ability": "Snapping 2",
+		"bonuses": {
+			"appeal": "9",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "COMMON AGAMA",
+		"latin_name": "Agama agama",
+		"enclosure": "1-RH 0",
+		"cost": 9,
+		"type": "Reptile",
+		"continent": "Africa",
+		"requirements": "",
+		"ability": "Sunbathing 2",
+		"bonuses": {
+			"appeal": "3",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "AFRICAN SPURRED TORTOISE",
+		"latin_name": "Centrochelys sulcata",
+		"enclosure": "3-RH 2",
+		"cost": 22,
+		"type": "Reptile",
+		"continent": "Africa",
+		"requirements": "",
+		"ability": "Sunbathing 3",
+		"bonuses": {
+			"appeal": "6",
+			"conservation": "1",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "ROCK MONITOR",
+		"latin_name": "Varanus albigularis",
+		"enclosure": "2R-RH 1",
+		"cost": 12,
+		"type": "Reptile",
+		"continent": "Africa",
+		"requirements": "",
+		"ability": "Sunbathing 3",
+		"bonuses": {
+			"appeal": "5",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "GALAPAGOS GIANT TORTOISE",
+		"latin_name": "Chelonoidis nigra",
+		"enclosure": "3-RH 2",
+		"cost": 30,
+		"type": "Reptile",
+		"continent": "Americas",
+		"requirements": "Americas x2\nAnimals II",
+		"ability": "Sunbathing 4",
+		"bonuses": {
+			"appeal": "8",
+			"conservation": "2",
+			"reputation": "1"
+		}
+	},
+	{
+		"animal_name": "ANACONDA",
+		"latin_name": "Eunectes murinus",
+		"enclosure": "2W-RH 1",
+		"cost": 13,
+		"type": "Reptile",
+		"continent": "Americas",
+		"requirements": "Partner zoo",
+		"ability": "Constriction",
+		"bonuses": {
+			"appeal": "6",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "BOA CONSTRICTOR",
+		"latin_name": "Boa constrictor",
+		"enclosure": "2-RH 1",
+		"cost": 16,
+		"type": "Reptile",
+		"continent": "Americas",
+		"requirements": "Science x2",
+		"ability": "Constriction",
+		"bonuses": {
+			"appeal": "7",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "BROAD-SNOUTED CAIMAN",
+		"latin_name": "Caiman latirostris",
+		"enclosure": "4W-RH 2",
+		"cost": 16,
+		"type": "Reptile",
+		"continent": "Americas",
+		"requirements": "",
+		"ability": "Snapping 1",
+		"bonuses": {
+			"appeal": "6",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "AMERICAN ALLIGATOR",
+		"latin_name": "Alligator mississippiensis",
+		"enclosure": "4W-RH 2",
+		"cost": 18,
+		"type": "Reptile",
+		"continent": "Americas",
+		"requirements": "",
+		"ability": "Snapping 1",
+		"bonuses": {
+			"appeal": "7",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "KOMODO DRAGON",
+		"latin_name": "Varanus komodoensis",
+		"enclosure": "3-RH 2",
+		"cost": 14,
+		"type": "Reptile",
+		"continent": "Asia",
+		"requirements": "Asia x2",
+		"ability": "Iconic Animal: Asia",
+		"bonuses": {
+			"appeal": "2",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "INDIAN ROCK PYTHON",
+		"latin_name": "Python molurus",
+		"enclosure": "2-RH 1",
+		"cost": 14,
+		"type": "Reptile",
+		"continent": "Asia",
+		"requirements": "Reptile x2",
+		"ability": "Constriction",
+		"bonuses": {
+			"appeal": "7",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "KING COBRA",
+		"latin_name": "Ophiophagus hannah",
+		"enclosure": "2-RH 1",
+		"cost": 13,
+		"type": "Reptile",
+		"continent": "Asia",
+		"requirements": "Science x2\nAnimals II",
+		"ability": "Hypnosis 3",
+		"bonuses": {
+			"appeal": "6",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "VEILED CHAMELEON",
+		"latin_name": "Chamaeleo calyptratus",
+		"enclosure": "1-RH 0",
+		"cost": 14,
+		"type": "Reptile",
+		"continent": "Asia",
+		"requirements": "",
+		"ability": "Snapping 1",
+		"bonuses": {
+			"appeal": "4",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "CHINESE WATER DRAGON",
+		"latin_name": "Physignathus cocincinus",
+		"enclosure": "1W-RH 0",
+		"cost": 8,
+		"type": "Reptile",
+		"continent": "Asia",
+		"requirements": "",
+		"ability": "Sunbathing 2",
+		"bonuses": {
+			"appeal": "3",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "INLAND TAIPAN",
+		"latin_name": "Oxyuranus microlepidotus",
+		"enclosure": "2R-RH 1",
+		"cost": 10,
+		"type": "Reptile",
+		"continent": "Australia",
+		"requirements": "Australia\nScience",
+		"ability": "Venom 2",
+		"bonuses": {
+			"appeal": "5",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "SALTWATER CROCODILE",
+		"latin_name": "Crocodylus porosus",
+		"enclosure": "5W-RH 3",
+		"cost": 23,
+		"type": "Reptile",
+		"continent": "Australia",
+		"requirements": "Partner zoo",
+		"ability": "Snapping 2",
+		"bonuses": {
+			"appeal": "9",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "GOULD'S MONITOR",
+		"latin_name": "Varanus gouldii",
+		"enclosure": "3-RH 2",
+		"cost": 15,
+		"type": "Reptile",
+		"continent": "Australia",
+		"requirements": "",
+		"ability": "Scavenging 2",
+		"bonuses": {
+			"appeal": "6",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "FRILLED LIZARD",
+		"latin_name": "Chlamydosaurus kingii",
+		"enclosure": "2R-RH 1",
+		"cost": 12,
+		"type": "Reptile",
+		"continent": "Australia",
+		"requirements": "",
+		"ability": "Sprint 1",
+		"bonuses": {
+			"appeal": "5",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "THORNY DEVIL",
+		"latin_name": "Moloch horridus",
+		"enclosure": "1R-RH 0",
+		"cost": 6,
+		"type": "Reptile",
+		"continent": "Australia",
+		"requirements": "",
+		"ability": "",
+		"bonuses": {
+			"appeal": "3",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "COMMON EUROPEAN ADDER",
+		"latin_name": "Vipera berus",
+		"enclosure": "1-RH 0",
+		"cost": 10,
+		"type": "Reptile",
+		"continent": "Europe",
+		"requirements": "Partner zoo",
+		"ability": "Hypnosis 3",
+		"bonuses": {
+			"appeal": "2",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "EUROPEAN GRASS SNAKE",
+		"latin_name": "Natrix natrix",
+		"enclosure": "1W-RH 0",
+		"cost": 8,
+		"type": "Reptile",
+		"continent": "Europe",
+		"requirements": "",
+		"ability": "Clever",
+		"bonuses": {
+			"appeal": "3",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "COMMON WALL LIZARD",
+		"latin_name": "Podarcis muralis",
+		"enclosure": "1R-RH 0",
+		"cost": 4,
+		"type": "Reptile",
+		"continent": "Europe",
+		"requirements": "",
+		"ability": "",
+		"bonuses": {
+			"appeal": "2",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "SLOW WORM",
+		"latin_name": "Anguis fragilis",
+		"enclosure": "1W-RH 0",
+		"cost": 4,
+		"type": "Reptile",
+		"continent": "Europe",
+		"requirements": "",
+		"ability": "",
+		"bonuses": {
+			"appeal": "2",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	},
+	{
+		"animal_name": "EUROPEAN POND TURTLE",
+		"latin_name": "Emys orbicularis",
+		"enclosure": "1W-RH 1",
+		"cost": 9,
+		"type": "Reptile",
+		"continent": "Europe",
+		"requirements": "",
+		"ability": "",
+		"bonuses": {
+			"appeal": "4",
+			"conservation": "0",
+			"reputation": "0"
+		}
+	}
+]

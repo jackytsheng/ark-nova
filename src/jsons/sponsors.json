@@ -1,0 +1,642 @@
+[
+  {
+    "Sponsor name": "NATIVE SEABIRDS",
+    "Level": 5,
+    "Enclosure size-RW": "",
+    "Type": "Bird",
+    "Continent": "",
+    "Science": null,
+    "Requirements": "Max appeal 25",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "PENGUIN POOL",
+    "Level": 5,
+    "Enclosure size-RW": "4W",
+    "Type": "Bird",
+    "Continent": "",
+    "Science": null,
+    "Requirements": "Reputation 3",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "ORNITHOLOGIST",
+    "Level": 4,
+    "Enclosure size-RW": "",
+    "Type": "Bird",
+    "Continent": "",
+    "Science": null,
+    "Requirements": "",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "BARRED OWL HUT",
+    "Level": 6,
+    "Enclosure size-RW": "3",
+    "Type": "Bird",
+    "Continent": "",
+    "Science": null,
+    "Requirements": "",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "NATIVE FARM ANIMALS",
+    "Level": 5,
+    "Enclosure size-RW": "",
+    "Type": "Herbivore",
+    "Continent": "",
+    "Science": null,
+    "Requirements": "Max appeal 25",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "MEERKAT DEN",
+    "Level": 5,
+    "Enclosure size-RW": "3R",
+    "Type": "Herbivore",
+    "Continent": "",
+    "Science": null,
+    "Requirements": "Reputation 3",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "EXPERT IN HERBIVORES",
+    "Level": 4,
+    "Enclosure size-RW": "",
+    "Type": "Herbivore",
+    "Continent": "",
+    "Science": null,
+    "Requirements": "",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "OKAPI STABLE",
+    "Level": 6,
+    "Enclosure size-RW": "4",
+    "Type": "Herbivore",
+    "Continent": "",
+    "Science": null,
+    "Requirements": "",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "EXPERT IN PREDATORS",
+    "Level": 4,
+    "Enclosure size-RW": "",
+    "Type": "Predator",
+    "Continent": "",
+    "Science": null,
+    "Requirements": "",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "SPOTTED HYENA COMPOUND",
+    "Level": 5,
+    "Enclosure size-RW": "4R",
+    "Type": "Predator",
+    "Continent": "",
+    "Science": null,
+    "Requirements": "",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "POLAR BEAR EXHIBIT",
+    "Level": 5,
+    "Enclosure size-RW": "4W",
+    "Type": "Predator/Bear",
+    "Continent": "",
+    "Science": null,
+    "Requirements": "",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "FREE-RANGE NEW WORLD MONKEYS",
+    "Level": 5,
+    "Enclosure size-RW": "",
+    "Type": "Primate",
+    "Continent": "",
+    "Science": null,
+    "Requirements": "Max appeal 25",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "PRIMATOLOGIST",
+    "Level": 4,
+    "Enclosure size-RW": "",
+    "Type": "Primate",
+    "Continent": "",
+    "Science": null,
+    "Requirements": "",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "RHESUS MONKEY PARK",
+    "Level": 5,
+    "Enclosure size-RW": "4",
+    "Type": "Primate",
+    "Continent": "",
+    "Science": null,
+    "Requirements": "",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "BABOON ROCK",
+    "Level": 6,
+    "Enclosure size-RW": "4R",
+    "Type": "Primate",
+    "Continent": "",
+    "Science": null,
+    "Requirements": "",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "NATIVE LIZARDS",
+    "Level": 5,
+    "Enclosure size-RW": "",
+    "Type": "Reptile",
+    "Continent": "",
+    "Science": null,
+    "Requirements": "Max appeal 25",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "HERPETOLOGIST",
+    "Level": 4,
+    "Enclosure size-RW": "",
+    "Type": "Reptile",
+    "Continent": "",
+    "Science": null,
+    "Requirements": "",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "SEA TURTLE TANK",
+    "Level": 5,
+    "Enclosure size-RW": "4W",
+    "Type": "Reptile",
+    "Continent": "",
+    "Science": null,
+    "Requirements": "",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "EXPERT ON AFRICA",
+    "Level": 4,
+    "Enclosure size-RW": "",
+    "Type": "",
+    "Continent": "Africa",
+    "Science": null,
+    "Requirements": "",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "EXPERT ON THE AMERICAS",
+    "Level": 4,
+    "Enclosure size-RW": "",
+    "Type": "",
+    "Continent": "Americas",
+    "Science": null,
+    "Requirements": "",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "EXPERT ON ASIA",
+    "Level": 5,
+    "Enclosure size-RW": "",
+    "Type": "",
+    "Continent": "Asia",
+    "Science": null,
+    "Requirements": "",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "EXPERT ON AUSTRALIA",
+    "Level": 5,
+    "Enclosure size-RW": "",
+    "Type": "",
+    "Continent": "Australia",
+    "Science": null,
+    "Requirements": "",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "EXPERT ON EUROPE",
+    "Level": 5,
+    "Enclosure size-RW": "",
+    "Type": "",
+    "Continent": "Europe",
+    "Science": null,
+    "Requirements": "",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "SCIENCE LAB",
+    "Level": 5,
+    "Enclosure size-RW": "",
+    "Type": "",
+    "Continent": "",
+    "Science": 1,
+    "Requirements": "Cards II",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "DIVERSITY RESEARCHER",
+    "Level": 5,
+    "Enclosure size-RW": "",
+    "Type": "",
+    "Continent": "",
+    "Science": 1,
+    "Requirements": "Cards II",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "BASIC RESEARCH",
+    "Level": 4,
+    "Enclosure size-RW": "",
+    "Type": "",
+    "Continent": "",
+    "Science": 1,
+    "Requirements": "Cards II\nMax appeal 25",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "MIGRATION RECORDING",
+    "Level": 4,
+    "Enclosure size-RW": "",
+    "Type": "",
+    "Continent": "",
+    "Science": 1,
+    "Requirements": "Science",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "ARCHEOLOGIST",
+    "Level": 4,
+    "Enclosure size-RW": "",
+    "Type": "",
+    "Continent": "",
+    "Science": 1,
+    "Requirements": "Science",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "SPOKESPERSON",
+    "Level": 5,
+    "Enclosure size-RW": "",
+    "Type": "",
+    "Continent": "",
+    "Science": 1,
+    "Requirements": "Science",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "GORILLA FIELD RESEARCH",
+    "Level": 3,
+    "Enclosure size-RW": "",
+    "Type": "",
+    "Continent": "",
+    "Science": 1,
+    "Requirements": "Science x3",
+    "Bonuses-ACR": "0/1/2"
+  },
+  {
+    "Sponsor name": "SCIENCE MUSEUM",
+    "Level": 4,
+    "Enclosure size-RW": "",
+    "Type": "",
+    "Continent": "",
+    "Science": 1,
+    "Requirements": "Science x4",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "MEDICAL BREAKTHROUGH",
+    "Level": 5,
+    "Enclosure size-RW": "",
+    "Type": "",
+    "Continent": "",
+    "Science": 1,
+    "Requirements": "Science x4",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "QUARANTINE LAB",
+    "Level": 3,
+    "Enclosure size-RW": "",
+    "Type": "",
+    "Continent": "",
+    "Science": 1,
+    "Requirements": "",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "VETERINARIAN",
+    "Level": 4,
+    "Enclosure size-RW": "",
+    "Type": "",
+    "Continent": "",
+    "Science": 1,
+    "Requirements": "",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "FEDERAL GRANTS",
+    "Level": 4,
+    "Enclosure size-RW": "",
+    "Type": "",
+    "Continent": "",
+    "Science": 1,
+    "Requirements": "",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "SCIENCE LIBRARY",
+    "Level": 4,
+    "Enclosure size-RW": "",
+    "Type": "",
+    "Continent": "",
+    "Science": 1,
+    "Requirements": "",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "TECHNOLOGY INSTITUTE",
+    "Level": 5,
+    "Enclosure size-RW": "",
+    "Type": "",
+    "Continent": "",
+    "Science": 1,
+    "Requirements": "",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "FOREIGN INSTITUTE",
+    "Level": 6,
+    "Enclosure size-RW": "",
+    "Type": "",
+    "Continent": "",
+    "Science": 1,
+    "Requirements": "",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "SCIENCE INSTITUTE",
+    "Level": 3,
+    "Enclosure size-RW": "",
+    "Type": "",
+    "Continent": "",
+    "Science": 2,
+    "Requirements": "",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "SPONSORSHIP: VULTURES",
+    "Level": 3,
+    "Enclosure size-RW": "",
+    "Type": "",
+    "Continent": "",
+    "Science": null,
+    "Requirements": "Bird",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "SPONSORSHIP: ELEPHANTS",
+    "Level": 3,
+    "Enclosure size-RW": "",
+    "Type": "",
+    "Continent": "",
+    "Science": null,
+    "Requirements": "Herbivore",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "RELEASE OF PATENTS",
+    "Level": 5,
+    "Enclosure size-RW": "",
+    "Type": "",
+    "Continent": "",
+    "Science": null,
+    "Requirements": "Max appeal 25",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "GLOBAL BREEDING PROGRAM",
+    "Level": 4,
+    "Enclosure size-RW": "",
+    "Type": "",
+    "Continent": "",
+    "Science": null,
+    "Requirements": "Partner zoo x2",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "SPONSORSHIP: LIONS",
+    "Level": 3,
+    "Enclosure size-RW": "4",
+    "Type": "",
+    "Continent": "",
+    "Science": null,
+    "Requirements": "Predator",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "SPONSORSHIP: PRIMATES",
+    "Level": 3,
+    "Enclosure size-RW": "",
+    "Type": "",
+    "Continent": "",
+    "Science": null,
+    "Requirements": "Primate",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "SPONSORSHIP: REPTILES",
+    "Level": 3,
+    "Enclosure size-RW": "",
+    "Type": "",
+    "Continent": "",
+    "Science": null,
+    "Requirements": "Reptile",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "AQUARIUM",
+    "Level": 5,
+    "Enclosure size-RW": "4WW",
+    "Type": "",
+    "Continent": "",
+    "Science": null,
+    "Requirements": "Reputation 3",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "WAZA SMALL ANIMAL PROGRAM",
+    "Level": 5,
+    "Enclosure size-RW": "",
+    "Type": "",
+    "Continent": "",
+    "Science": null,
+    "Requirements": "Reputation 3",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "WAZA SPECIAL ASSIGNMENT",
+    "Level": 6,
+    "Enclosure size-RW": "",
+    "Type": "",
+    "Continent": "",
+    "Science": null,
+    "Requirements": "Reputation 6",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "BREEDING PROGRAM",
+    "Level": 4,
+    "Enclosure size-RW": "",
+    "Type": "",
+    "Continent": "",
+    "Science": null,
+    "Requirements": "Science x2",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "EXPLORER",
+    "Level": 5,
+    "Enclosure size-RW": "",
+    "Type": "",
+    "Continent": "",
+    "Science": null,
+    "Requirements": "Sponsors II",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "TALENTED COMMUNICATOR",
+    "Level": 5,
+    "Enclosure size-RW": "",
+    "Type": "",
+    "Continent": "",
+    "Science": null,
+    "Requirements": "Sponsors II",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "WAZA LARGE ANIMAL PROGRAM",
+    "Level": 5,
+    "Enclosure size-RW": "5",
+    "Type": "",
+    "Continent": "",
+    "Science": null,
+    "Requirements": "Sponsors II\nReputation 6",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "GUIDED SCHOOL TOURS",
+    "Level": 3,
+    "Enclosure size-RW": "",
+    "Type": "",
+    "Continent": "",
+    "Science": null,
+    "Requirements": "",
+    "Bonuses-ACR": "1/1/0"
+  },
+  {
+    "Sponsor name": "ZOO SCHOOL",
+    "Level": 5,
+    "Enclosure size-RW": "3",
+    "Type": "",
+    "Continent": "",
+    "Science": null,
+    "Requirements": "",
+    "Bonuses-ACR": "0/1/1"
+  },
+  {
+    "Sponsor name": "ADVENTURE PLAYGROUND",
+    "Level": 3,
+    "Enclosure size-RW": "2R",
+    "Type": "",
+    "Continent": "",
+    "Science": null,
+    "Requirements": "",
+    "Bonuses-ACR": "4/0/0"
+  },
+  {
+    "Sponsor name": "WATER PLAYGROUND",
+    "Level": 3,
+    "Enclosure size-RW": "2W",
+    "Type": "",
+    "Continent": "",
+    "Science": null,
+    "Requirements": "",
+    "Bonuses-ACR": "4/0/0"
+  },
+  {
+    "Sponsor name": "SIDE ENTRANCE",
+    "Level": 3,
+    "Enclosure size-RW": "2",
+    "Type": "",
+    "Continent": "",
+    "Science": null,
+    "Requirements": "",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "ENGINEER",
+    "Level": 4,
+    "Enclosure size-RW": "",
+    "Type": "",
+    "Continent": "",
+    "Science": null,
+    "Requirements": "",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "EXPERT IN LARGE ANIMALS",
+    "Level": 4,
+    "Enclosure size-RW": "",
+    "Type": "",
+    "Continent": "",
+    "Science": null,
+    "Requirements": "",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "GEOLOGIST",
+    "Level": 5,
+    "Enclosure size-RW": "R",
+    "Type": "",
+    "Continent": "",
+    "Science": null,
+    "Requirements": "",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "HYDROLOGIST",
+    "Level": 5,
+    "Enclosure size-RW": "W",
+    "Type": "",
+    "Continent": "",
+    "Science": null,
+    "Requirements": "",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "EXPERT IN SMALL ANIMALS",
+    "Level": 5,
+    "Enclosure size-RW": "",
+    "Type": "",
+    "Continent": "",
+    "Science": null,
+    "Requirements": "",
+    "Bonuses-ACR": "0/0/0"
+  },
+  {
+    "Sponsor name": "AERIAL CABLEWAY",
+    "Level": 6,
+    "Enclosure size-RW": "4RR",
+    "Type": "",
+    "Continent": "",
+    "Science": null,
+    "Requirements": "",
+    "Bonuses-ACR": "0/0/0"
+  }
+]
