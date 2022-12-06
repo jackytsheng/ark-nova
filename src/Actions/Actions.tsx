@@ -1,19 +1,37 @@
-import React from 'react';
+import React, { useState } from 'react';
+import { shuffleArray } from '../helper/shuffle';
+
+enum GameActions {
+  Animal = 'Animal',
+  Card = 'Card',
+  Sponsor = 'Sponsor',
+  Association = 'Association',
+  Build = 'Build',
+}
 
 const Actions = () => {
+  const [actions, setActions] = useState(
+    [GameActions.Animal].concat(
+      shuffleArray<GameActions>([
+        GameActions.Association,
+        GameActions.Card,
+        GameActions.Build,
+        GameActions.Sponsor,
+      ])
+    )
+  );
+
   return (
     <div className='w-[900px] p-4 flex items-center justify-between border-gray-300 border-2 rounded-lg'>
-      <Action name='Animal' />
-      <Action name='Card' />
-      <Action name='Build' />
-      <Action name='Sponsor' />
-      <Action name='Association' />
+      {actions.map((a) => (
+        <Action key={a} name={a} />
+      ))}
     </div>
   );
 };
 
 type ActionProp = {
-  name: string;
+  name: GameActions;
 };
 const Action = ({ name }: ActionProp) => {
   return (
