@@ -2,15 +2,15 @@
 
 My recent favorite board game
 
-Trying to write it up with so I can play it with my friend on my way back to china
-
-Roadmap
+Trying to write it up with so I can play it with my friend on airplane
 
 ## Technology
 
 - Vite Framework + TS
 - Tailwind css
-- PixiJs
+- PixiJs (TBD)
+- Redux (TBD)
+- Progressive Webapp
 
 ## Credit
 
