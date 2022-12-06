@@ -3,7 +3,7 @@ import Dashboard from './Dashboard/Dashboard';
 
 function App() {
   return (
-    <div className='flex gap-6 justify-center w-screen h-96'>
+    <div className='flex gap-6 justify-center w-screen'>
       <Dashboard />
     </div>
   );

@@ -12,18 +12,19 @@ export enum GameAction {
 export type Action = {
   card: GameAction;
   level: number;
+  power: number;
 };
 
 type ActionsProps = {
   actions: Action[];
-  setActions?: any;
+  clickAction: (action: Action) => void;
 };
 
-const Actions = ({ actions }: ActionsProps) => {
+const Actions = ({ actions, clickAction }: ActionsProps) => {
   return (
     <div className='w-[900px] flex items-center justify-between'>
       {actions.map((a) => (
-        <ActionCard key={a.card} action={a} />
+        <ActionCard key={a.card} action={a} clickAction={clickAction} />
       ))}
     </div>
   );
@@ -31,11 +32,17 @@ const Actions = ({ actions }: ActionsProps) => {
 
 type ActionProp = {
   action: Action;
+  clickAction: (action: Action) => void;
 };
-const ActionCard = ({ action }: ActionProp) => {
+const ActionCard = ({ action, clickAction }: ActionProp) => {
   return (
-    <div className='w-[160px] h-[260px] flex justify-center pt-2 border-gray-300 border-2 rounded-lg'>
-      {action.card} Lv: {action.level}
+    <div
+      onClick={() => clickAction(action)}
+      className='hover:cursor-pointer w-[160px] h-[160px] flex flex-col items-center justify-start pt-2 border-gray-300 border-2 rounded-lg'
+    >
+      <div>{action.card}</div>
+      <div>Lv: {action.level}</div>
+      <div>Power: {action.power}</div>
     </div>
   );
 };
