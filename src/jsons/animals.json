@@ -114,7 +114,7 @@
     "latin_name": "Pavo cristatus",
     "enclosure": "3",
     "cost": 18,
-    "type": "18",
+    "type": "Bird",
     "continent": "Asia",
     "requirements": "Asia",
     "ability": "Posturing 2",
