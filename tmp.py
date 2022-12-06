@@ -12,13 +12,14 @@ data = json.load(f)
 new_list = []
 for obj in data:
     
+		# Lower case
+    obj['animal_name'] = obj['animal_name'].title()
+    
     # Bonuses
     obj['bonuses'] = "0/0/0" if obj['bonuses'] == "" else obj['bonuses'] 
     a = obj['bonuses'].split("/")
-    print(a)
     obj['bonuses'] = {"appeal": a[0], "conservation":a[1],"reputation":a[2]}
 
-		#	  
   
   
     new_list.append(obj)
