@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { shuffleArray } from '../helper/shuffle';
 
-enum GameActions {
+export enum GameAction {
   Animal = 'Animal',
   Card = 'Card',
   Sponsor = 'Sponsor',
@@ -9,34 +9,33 @@ enum GameActions {
   Build = 'Build',
 }
 
-const Actions = () => {
-  const [actions, setActions] = useState(
-    [GameActions.Animal].concat(
-      shuffleArray<GameActions>([
-        GameActions.Association,
-        GameActions.Card,
-        GameActions.Build,
-        GameActions.Sponsor,
-      ])
-    )
-  );
+export type Action = {
+  card: GameAction;
+  level: number;
+};
 
+type ActionsProps = {
+  actions: Action[];
+  setActions?: any;
+};
+
+const Actions = ({ actions }: ActionsProps) => {
   return (
-    <div className='w-[900px] p-4 flex items-center justify-between border-gray-300 border-2 rounded-lg'>
+    <div className='w-[900px] flex items-center justify-between'>
       {actions.map((a) => (
-        <Action key={a} name={a} />
+        <ActionCard key={a.card} action={a} />
       ))}
     </div>
   );
 };
 
 type ActionProp = {
-  name: GameActions;
+  action: Action;
 };
-const Action = ({ name }: ActionProp) => {
+const ActionCard = ({ action }: ActionProp) => {
   return (
     <div className='w-[160px] h-[260px] flex justify-center pt-2 border-gray-300 border-2 rounded-lg'>
-      {name}
+      {action.card} Lv: {action.level}
     </div>
   );
 };

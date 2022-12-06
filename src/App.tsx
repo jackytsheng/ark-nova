@@ -1,10 +1,10 @@
 import React from 'react';
-import Actions from './Actions/Actions';
+import Dashboard from './Dashboard/Dashboard';
 
 function App() {
   return (
-    <div className='flex justify-center w-screen h-96'>
-      <Actions />
+    <div className='flex gap-6 justify-center w-screen h-96'>
+      <Dashboard />
     </div>
   );
 }
