@@ -1,5 +1,4 @@
-import React, { useState } from 'react';
-import { shuffleArray } from '../helper/shuffle';
+import React from 'react';
 
 export enum GameAction {
   Animal = 'Animal',

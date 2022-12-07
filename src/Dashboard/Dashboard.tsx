@@ -1,61 +1,17 @@
 import React, { useEffect, useState } from 'react';
 import Actions, { Action, GameAction } from '../Actions/Actions';
 import { shuffleArray } from '../helper/shuffle';
+import {
+  Card,
+  EndScoreEffect,
+  Icon,
+  IncomeEffect,
+  Map,
+  PartnerZoo,
+  PermanentEffect,
+  ScienceIcon,
+} from '../handlers/GameType';
 
-type Map = {};
-
-enum ContinentIcon {
-  Asia,
-  Africa,
-  America,
-  Australia,
-  Europe,
-}
-
-enum AnimalIcon {
-  Bird,
-  Predator,
-  Herbivore,
-  Primate,
-  Pet,
-  Bear,
-  Reptile,
-}
-
-enum MapIcon {
-  Rock,
-  Water,
-}
-
-enum ScienceIcon {
-  Research,
-}
-
-type Icon = MapIcon | ScienceIcon | ContinentIcon | MapIcon;
-
-type IncomeEffect = {};
-type PermanentEffect = {};
-
-enum CardType {
-  Sponsor,
-  Project,
-  Animal,
-}
-type Card = {
-  type: CardType;
-};
-type Worker = {
-  isWorking: boolean;
-};
-enum PartnerZoo {
-  Asia,
-  Africa,
-  America,
-  Australia,
-  Europe,
-}
-
-type EndScoreEffect = {};
 type Player = {
   map?: Map;
   appeal: number;
@@ -88,6 +44,10 @@ const initialAction = [{ card: GameAction.Animal, level: 1, power: 1 }].concat(
 
 const Dashboard = () => {
   const [actions, setActions] = useState<Action[]>(initialAction);
+  const [icons, setIcons] = useState<Icon[]>([
+    ScienceIcon.Research,
+    ScienceIcon.Research,
+  ]);
 
   const [player, setPlayer] = useState<Player>({
     appeal: 0,
@@ -97,6 +57,22 @@ const Dashboard = () => {
     xToken: 0,
     actions: initialAction,
   });
+
+  let first_animal = {
+    animal_name: 'Shoebill',
+    latin_name: 'Balaeniceps rex',
+    // enclosure: '1-LBA 1',
+    cost: 9,
+    type: 'Bird',
+    continent: 'Africa',
+    requirements: 'Science x2',
+    ability: '',
+    bonuses: {
+      appeal: '3',
+      conservation: '1',
+      reputation: '0',
+    },
+  };
 
   const { money, conservation, reputation, xToken, appeal } = player;
 
@@ -118,6 +94,7 @@ const Dashboard = () => {
       reputation: 0,
       xToken: 0,
       actions,
+      icons,
     });
   }, [actions]);
 
@@ -135,6 +112,9 @@ const Dashboard = () => {
       </span>
       <span className='border-gray-300 rounded-full p-4'>
         Appeal : {appeal}
+      </span>
+      <span className='border-gray-300 rounded-full p-4'>
+        Icons : {icons.sort()}
       </span>
       <Actions actions={actions} clickAction={clickActionHandler} />
     </div>
