@@ -8,9 +8,12 @@ Trying to write it up with so I can play it with my friend on airplane
 
 - Vite Framework + TS
 - Tailwind css
+- Redux
 - PixiJs (TBD)
-- Redux (TBD)
-- Progressive Webapp
+
+Future Road Map
+
+- Flutter App
 
 ## Credit
 
