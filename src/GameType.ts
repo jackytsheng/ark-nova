@@ -1,3 +1,5 @@
+import { Action } from './components/Actions/Actions';
+
 export type Map = {};
 
 export enum ContinentIcon {
@@ -65,6 +67,23 @@ export type AnimalCard = {
     conservation: number;
     reputation: number;
   };
+};
+
+export type Player = {
+  map?: Map;
+  appeal: number;
+  reputation: number;
+  conservation: number;
+  icons: Icon[];
+  money: number;
+  xToken: number;
+  actions?: Action[];
+  incomeEffect?: IncomeEffect[];
+  permanentEffect?: PermanentEffect[];
+  engScoreEffect?: EndScoreEffect[];
+  cards?: Card[];
+  partnerZoo?: PartnerZoo[];
+  workers?: Worker[];
 };
 
 export type EndScoreEffect = {};

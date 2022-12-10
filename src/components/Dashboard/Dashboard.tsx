@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Actions, { Action, GameAction } from '../Actions/Actions';
-import { shuffleArray } from '../helper/shuffle';
+import { shuffleArray } from '../../helper/shuffle';
 import {
   Card,
   EndScoreEffect,
@@ -10,7 +10,9 @@ import {
   PartnerZoo,
   PermanentEffect,
   ScienceIcon,
-} from '../handlers/GameType';
+} from '../../GameType';
+import { useSelector } from 'react-redux';
+import { RootState } from '../../redux/store';
 
 type Player = {
   map?: Map;
@@ -44,37 +46,9 @@ const initialAction = [{ card: GameAction.Animal, level: 1, power: 1 }].concat(
 
 const Dashboard = () => {
   const [actions, setActions] = useState<Action[]>(initialAction);
-  const [icons, setIcons] = useState<Icon[]>([
-    ScienceIcon.Research,
-    ScienceIcon.Research,
-  ]);
 
-  const [player, setPlayer] = useState<Player>({
-    appeal: 0,
-    conservation: 0,
-    money: 25,
-    reputation: 0,
-    xToken: 0,
-    actions: initialAction,
-  });
-
-  let first_animal = {
-    animal_name: 'Shoebill',
-    latin_name: 'Balaeniceps rex',
-    // enclosure: '1-LBA 1',
-    cost: 9,
-    type: 'Bird',
-    continent: 'Africa',
-    requirements: 'Science x2',
-    ability: '',
-    bonuses: {
-      appeal: '3',
-      conservation: '1',
-      reputation: '0',
-    },
-  };
-
-  const { money, conservation, reputation, xToken, appeal } = player;
+  const { icons, money, conservation, reputation, appeal, xToken } =
+    useSelector((state: RootState) => state.player);
 
   const clickActionHandler = (action: Action) => {
     let newActions = [action].concat(actions.filter((a) => a !== action));
@@ -84,19 +58,6 @@ const Dashboard = () => {
     }));
     setActions(newActions);
   };
-
-  // Update Player State
-  useEffect(() => {
-    setPlayer({
-      appeal: 0,
-      conservation: 0,
-      money: 25,
-      reputation: 0,
-      xToken: 0,
-      actions,
-      icons,
-    });
-  }, [actions]);
 
   return (
     <div className='w-[900px] flex flex-wrap gap-2 p-4 text-gray-300 border-gray-300 border-2 rounded-lg'>
@@ -114,9 +75,9 @@ const Dashboard = () => {
         Appeal : {appeal}
       </span>
       <span className='border-gray-300 rounded-full p-4'>
-        Icons : {icons.sort()}
+        Icons : {icons.slice().sort()}
       </span>
-      <Actions actions={actions} clickAction={clickActionHandler} />
+      <Actions actions={actions} reArrange={clickActionHandler} />
     </div>
   );
 };

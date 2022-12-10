@@ -8,7 +8,7 @@ Trying to write it up with so I can play it with my friend on airplane
 
 - Vite Framework + TS
 - Tailwind css
-- Redux
+- Redux & createSlice
 - PixiJs (TBD)
 
 Future Road Map
