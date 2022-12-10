@@ -1,7 +1,7 @@
 import { createSlice } from '@reduxjs/toolkit';
 import { Player, ScienceIcon, GameAction } from '../GameType';
 import { shuffleArray } from '../helper/shuffle';
-import { placeAnimalReducer } from './animalReducer';
+import animalReducers from './animalReducers';
 import actionReducers from './actionReducers';
 
 // Rule (P4 B) : Animal has to be at the first slot to start with
@@ -32,7 +32,7 @@ export const playerSlice = createSlice({
   name: 'player',
   initialState,
   reducers: {
-    placeAnimal: placeAnimalReducer,
+    ...animalReducers,
     ...actionReducers,
   },
 });

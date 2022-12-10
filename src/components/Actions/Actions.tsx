@@ -1,4 +1,4 @@
-import React, { Dispatch } from 'react';
+import { Dispatch } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import {
   Action,
@@ -28,6 +28,7 @@ let firstAnimal: AnimalCard = {
     reputation: 0,
   },
 };
+
 const Actions = () => {
   const dispatch = useDispatch();
   const { actions } = useSelector((state: RootState) => state.player);
