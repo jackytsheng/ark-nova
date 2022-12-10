@@ -1,5 +1,3 @@
-import { Action } from './components/Actions/Actions';
-
 export type Map = {};
 
 export enum ContinentIcon {
@@ -10,6 +8,19 @@ export enum ContinentIcon {
   Europe = '🔵',
 }
 
+export enum GameAction {
+  Animal = 'Animal',
+  Card = 'Card',
+  Sponsor = 'Sponsor',
+  Association = 'Association',
+  Build = 'Build',
+}
+
+export type Action = {
+  card: GameAction;
+  level: number;
+  power: number;
+};
 export enum AnimalIcon {
   Bird = '🕊',
   Predator = '🐅',
